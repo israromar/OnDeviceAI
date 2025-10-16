@@ -1,6 +1,4 @@
 # Ignore large model artifacts
-*.pte
-*.bin
 
 # Node
 node_modules/
